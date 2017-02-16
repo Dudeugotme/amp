@@ -283,6 +283,10 @@
         "name": {
           "type": "string",
           "format": "string"
+        },
+        "email": {
+          "type": "string",
+          "format": "string"
         }
       }
     },

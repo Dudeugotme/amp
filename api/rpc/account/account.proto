@@ -76,6 +76,7 @@ message LogInReply {
 
 message PasswordResetRequest {
   string name = 1;
+  string email = 2;
 }
 
 message PasswordResetReply {
